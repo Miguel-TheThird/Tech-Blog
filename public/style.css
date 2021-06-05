@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    height: 100%;
+  }
+
+:root {
+    --dark: #532828;
+    --light: #fff;
+    --navlink-color: #b9c6ae;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3;
+    min-height: 100%;
+    line-height: 1;
+    font-family: sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: var(--dark);
+    color: var(--light);
+  }
+  
+  h1 {
+    font-size: 200%;
+  }
+  
+  h2 {
+    margin: 2% 0;
+    font-size: 250%;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+  }
+  
+  nav a {
+    background-color: unset;
+    color: var(--navlink-color);
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: var(--light);
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 95%;
+    margin: 2% auto;
+  }
+
+  .post-card{
+     background-color:var(--light);
+     border: solid;
+     border-width: 1px;
+     border-color: var(--dark);
+  }
+  .post-header{
+      background-color:var(--dark) ;
+      color: var(--light)
+  }
+
+  .create{
+      background-color:var(--dark) ;
+      color: var(--light)
+  }
+
+  
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    background-color: var(--dark);
+    color: var(--light);
+  }
+  
+
+  
