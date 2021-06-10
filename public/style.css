@@ -82,6 +82,19 @@
       color: var(--light)
   }
 
+  .log-title{
+    background-color:var(--dark) ;
+      color: var(--light);
+      padding: 3px;
+  }
+
+  .login-div{
+    border: solid;
+    border-width: 2px;
+    border-color: var(--dark);
+    padding: 0px;
+  }
+
   
   footer {
     display: flex;
