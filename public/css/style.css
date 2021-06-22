@@ -35,6 +35,10 @@
   h1 {
     font-size: 200%;
   }
+
+  .home-text{
+    color: var(--dark);
+  }
   
   h2 {
     margin: 2% 0;
@@ -93,6 +97,11 @@
     border-width: 2px;
     border-color: var(--dark);
     padding: 0px;
+  }
+
+  .btn{
+    background-color:var(--dark) ;
+      color: var(--light)
   }
 
   
