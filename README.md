@@ -3,10 +3,10 @@ A place where developers can publish their blog posts and comment on other devel
 
 Preview
 
-![Home](\Assets\home-demo.png)
+![Home](.\Assets\home-demo.png)
 
-![Login-Signup](\Assets\login-signup-demo.png)
+![Login-Signup](.\Assets\login-signup-demo.png)
  
 ## Link to deployed page
 
-https://https://miguel-thethird.github.io/Tech-Blog/
+https://miguel-thethird.github.io/Tech-Blog/
