@@ -5,7 +5,7 @@ A place where developers can publish their blog posts and comment on other devel
 
 ![Home](.\assets\home-demo.png)
 
-![Login-Signup](\assets\login-signup-demo.png)
+![Login-Signup](.\assets\login-signup-demo.png)
 
  
 ## Link to deployed page
